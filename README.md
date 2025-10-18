@@ -1,1 +1,1 @@
-Hi, this is my attemoot at designing a Landing Page dedicated to Charity: Water for a creative project. 
+Hi, this is a Landing Page I designed for Charity: Water as a creative project. 
