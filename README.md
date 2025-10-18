@@ -1,2 +1,1 @@
-Hosam.com
-This is my first attempt at building a Website....Hope it goes well..
+Hi, this is my attemoot at designing a Landing Page dedicated to Charity: Water for a creative project. 
